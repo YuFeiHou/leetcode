@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 /**
  * ClassName:    Java8Tester
  * Package:    com.java8
- * Description:
+ * Description: 教程： https://www.cnblogs.com/andywithu/p/7404101.html
  * Datetime:    2021/5/11   17:04
  * Author:   houyufei@fulong.tech
  */

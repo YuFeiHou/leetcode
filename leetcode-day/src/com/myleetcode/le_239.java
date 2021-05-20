@@ -6,7 +6,7 @@ import java.util.LinkedList;
 /**
  * ClassName:    le_239
  * Package:    com.myleetcode
- * Description:
+ * Description:  滑动窗口最大值
  * Datetime:    2021/5/14   10:54
  * Author:   houyufei@fulong.tech
  */

@@ -6,7 +6,9 @@ import java.util.List;
 /**
  * ClassName:    le_39
  * Package:    com.myleetcode
- * Description: 组合总和
+ * Description: 组合总和 TODO 怎么确认重复的集合呢？ 例如： 235 tar=8   [2,2,2,2],[2,3,3], [3,5] 为什么没 53 323这些呢？
+ *
+ *
  * Datetime:    2021/5/21   14:23
  * Author:   houyufei@fulong.tech
  * <p>
@@ -65,8 +67,8 @@ public class le_39 {
     }
 
     /**
-     * 公众号解法 组合总和
-     * @param candidates
+     * 公众号解法 组合总和  如何做到去重的？？？ 24  42的问题
+     * @param candidates  234 6
      * @param target
      * @param path
      * @param stat
